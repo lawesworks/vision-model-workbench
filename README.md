@@ -39,15 +39,8 @@ Datasets are retrieved dynamically from external platforms such as:
 - **Hugging Face Datasets**
 
 Benefits of this approach:
-- Keeps the repository lightweight
-- Ensures dataset versioning and reproducibility
 - Avoids duplication of large files
 - Enables quick dataset swapping for experimentation
-
-Each notebook clearly documents:
-- Required API keys
-- Workspace / project identifiers
-- Dataset version numbers
 
 ---
 
@@ -73,7 +66,6 @@ The focus is on **practical application**, not model architecture research.
 
 ## Intended Audience
 This repository is designed for:
-- Engineers and data scientists new to computer vision
 - Solution architects and sales engineers
 - Technical teams exploring AI workflows
 - Non-coders participating in hands-on labs
@@ -96,11 +88,11 @@ Results may vary depending on:
 ---
 
 ## Disclaimer
-The notebooks and workflows in this repository are intended for **educational and experimental purposes**.  
-They are not optimized or hardened for real-world production deployment.
+The notebooks and workflows in this repository are intended for **experimental purposes**.  
+They are not optimized or hardened for real-world production deployment.  Please demonstrate to customers with this in mind
 
 ---
 
 ## License
 This repository contains code and notebooks only.  
-Dataset licensing and usage rights are governed by the respective data platforms and projects from which data is sourced.
+Dataset licensing and usage rights are governed by the respective data platforms (Roboflow / Hugging Face) and projects from which data is sourced.
