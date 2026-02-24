@@ -1,7 +1,5 @@
 # Vision Model Workbench
 
-# Computer Vision Hands-On Labs
-
 ## Overview
 This repository contains a collection of **hands-on computer vision projects** implemented as **Google Colab notebooks**.  
 Each project demonstrates an end-to-end computer vision workflow, including:
