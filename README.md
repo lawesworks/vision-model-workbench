@@ -89,7 +89,8 @@ Results may vary depending on:
 
 ## Disclaimer
 This repository is intended for **experimental purposes**.  
-Scripts and notebooks are not optimized or hardened for real-world production deployment.  If you demonstrate to customers, please keep this in mind
+Scripts and notebooks are not optimized or hardened for real-world production deployment.  
+If you demonstrate to customers, keep this in mind
 
 ---
 
