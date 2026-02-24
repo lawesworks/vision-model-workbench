@@ -88,8 +88,8 @@ Results may vary depending on:
 ---
 
 ## Disclaimer
-The notebooks and workflows in this repository are intended for **experimental purposes**.  
-They are not optimized or hardened for real-world production deployment.  Please demonstrate to customers with this in mind
+This repository is intended for **experimental purposes**.  
+Scripts and notebooks are not optimized or hardened for real-world production deployment.  If you demonstrate to customers, please keep this in mind
 
 ---
 
