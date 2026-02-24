@@ -25,9 +25,9 @@ The repository is **use-case agnostic** and designed for learning, experimentati
 ---
 
 ## What This Repository Does *Not* Contain
-- ❌ Raw image datasets
-- ❌ Labeled data files checked into source control
-- ❌ Production-grade deployment infrastructure
+- Raw image datasets
+- Labeled data files checked into source control
+- Production-grade deployment infrastructure
 
 All training and evaluation data is **pulled at runtime** using platform APIs.
 
