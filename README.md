@@ -9,7 +9,7 @@ Each project demonstrates an end-to-end computer vision workflow, including:
 - Evaluation and visualization of results
 - Inference and basic deployment patterns
 
-This is a **use-case agnostic** repository for experimentation, enablement, and prototyping - not production deployment.
+This is a **use-case agnostic** repository for experimentation, enablement, and prototyping - not a production deployment.
 
 ---
 
