@@ -34,7 +34,7 @@ All training and evaluation data is **pulled at runtime** using platform APIs.
 ## Data Access & Management
 Datasets are retrieved dynamically from external platforms such as:
 - **Roboflow** (via Roboflow API)
-- **Hugging Face Datasets**
+- **Hugging Face Datasets**  (TBD)
 
 Benefits of this approach:
 - Avoids duplication of large files
