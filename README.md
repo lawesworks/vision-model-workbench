@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains a collection of **hands-on computer vision projects** implemented as **Google Colab notebooks**.  
-Each project demonstrates an end-to-end computer vision workflow, including:
+Each project demonstrates an end-to-end computer vision training workflow, including:
 
 - Data ingestion from external platforms (e.g., Roboflow, Hugging Face)
 - Model training using pretrained architectures
