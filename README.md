@@ -1,4 +1,4 @@
-# Vision Model Workbench
+# Vision Model Trainig Workbench
 
 ## Overview
 This repository contains a collection of **hands-on computer vision projects** implemented as **Google Colab notebooks**.  
