@@ -17,7 +17,6 @@ This is a **use-case agnostic** repository for experimentation, enablement, and 
 - Google Colab notebooks for computer vision workflows
 - Examples using YOLO and other modern vision models
 - API-based data access (no datasets stored locally)
-- Training metrics and visualization examples
 - Reproducible experiments using versioned data sources
 
 ---
@@ -44,7 +43,7 @@ Benefits of this approach:
 
 ####  Typical Workflow
 1. Open a Colab notebook from this repository
-2. Authenticate with the data platform (API key)
+2. Authenticate with API key
 3. Download a specific dataset version at runtime
 4. Train a pretrained computer vision model (transfer learning)
 5. Visualize training metrics (loss, mAP, etc.)
