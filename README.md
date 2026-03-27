@@ -1,6 +1,6 @@
-#### Vision Model Trainig Workbench
+###  Vision Model Trainig Workbench
 
-### Overview
+####  Overview
 This repository contains a collection of **hands-on computer vision projects** implemented as **Google Colab notebooks**.  
 Each project demonstrates an end-to-end computer vision training workflow, including:
 
@@ -13,7 +13,7 @@ This is a **use-case agnostic** repository for experimentation, enablement, and 
 
 ---
 
-### What This Repository Contains
+####  What This Repository Contains
 - Google Colab notebooks for computer vision workflows
 - Examples using YOLO and other modern vision models
 - API-based data access (no datasets stored locally)
@@ -22,7 +22,7 @@ This is a **use-case agnostic** repository for experimentation, enablement, and 
 
 ---
 
-### What This Repository Does *Not* Contain
+####  What This Repository Does *Not* Contain
 - Raw image datasets
 - Labeled data files checked into source control
 - Production-grade deployment infrastructure
@@ -31,7 +31,7 @@ All training and evaluation data is **pulled at runtime** using platform APIs.
 
 ---
 
-### Data Access & Management
+####  Data Access & Management
 Datasets are retrieved dynamically from external platforms such as:
 - **Roboflow** (via Roboflow API)
 - **Hugging Face Datasets**  (TBD)
@@ -42,7 +42,7 @@ Benefits of this approach:
 
 ---
 
-### Typical Workflow
+####  Typical Workflow
 1. Open a Colab notebook from this repository
 2. Authenticate with the data platform (API key)
 3. Download a specific dataset version at runtime
@@ -52,7 +52,7 @@ Benefits of this approach:
 
 ---
 
-### Models & Frameworks
+####  Models & Frameworks
 Notebooks in this repository may use:
 - **Ultralytics YOLO (YOLOv8 / YOLO11)**
 - Torch-based computer vision models
@@ -62,7 +62,7 @@ The focus is on **practical application**, not model architecture research.
 
 ---
 
-### Intended Audience
+####  Intended Audience
 This repository is designed for:
 - Solution architects and sales engineers
 - Technical clients exploring AI workflows
@@ -72,7 +72,7 @@ Minimal coding experience is required.
 
 ---
 
-### Reproducibility
+####  Reproducibility
 Reproducibility is achieved through:
 - Dataset versioning at the data platform level
 - Explicit model configuration in notebooks
@@ -86,13 +86,13 @@ Results may vary depending on:
 
 ---
 
-### Disclaimer
+####  Disclaimer
 This repository is intended for **experimental purposes**.  
 Scripts and notebooks are not optimized or hardened for real-world production deployment.  
 If you demonstrate to customers, keep this in mind
 
 ---
 
-### License
+####  License
 This repository contains code and notebooks only.  
 Dataset licensing and usage rights are governed by the respective data platforms (Roboflow / Hugging Face) and projects from which data is sourced.
