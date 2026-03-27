@@ -1,7 +1,7 @@
 ###  Vision Model Trainig Workbench
 
 ####  Overview
-This repository contains a collection of **hands-on computer vision projects** implemented as **Google Colab notebooks**.  
+This repository contains a collection of **computer vision projects** implemented as **Google Colab notebooks**.  
 Each project demonstrates an end-to-end computer vision training workflow, including:
 
 - Data ingestion from external platforms (e.g., Roboflow, Hugging Face)
