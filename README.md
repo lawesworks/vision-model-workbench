@@ -22,7 +22,7 @@ This is a **use-case agnostic** repository for experimentation, enablement, and 
 
 ---
 
-## What This Repository Does *Not* Contain
+### What This Repository Does *Not* Contain
 - Raw image datasets
 - Labeled data files checked into source control
 - Production-grade deployment infrastructure
