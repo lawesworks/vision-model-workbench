@@ -31,7 +31,7 @@ All training and evaluation data is **pulled at runtime** using platform APIs.
 ---
 
 ####  Data Access & Management
-Datasets are retrieved dynamically from external platforms such as:
+Datasets are retrieved dynamically from external platforms:
 - **Roboflow** (via Roboflow API)
 - **Hugging Face Datasets**  (TBD)
 
@@ -43,7 +43,7 @@ Benefits of this approach:
 
 ####  Typical Workflow
 1. Open a Colab notebook from this repository
-2. Authenticate with API key
+2. Authenticate with API key from dataset's source platform
 3. Download a specific dataset version at runtime
 4. Train a pretrained computer vision model (transfer learning)
 5. Visualize training metrics (loss, mAP, etc.)
@@ -52,22 +52,20 @@ Benefits of this approach:
 ---
 
 ####  Models & Frameworks
-Notebooks in this repository may use:
+Notebooks in this repository use:
 - **Ultralytics YOLO (YOLOv8 / YOLO11)**
 - Torch-based computer vision models
 - Pretrained foundational vision models
 
-The focus is on **practical application**, not model architecture research.
+The focus is on **practical application**, not model architecture R&D.
 
 ---
 
 ####  Intended Audience
 This repository is designed for:
-- Solution architects and sales engineers
-- Technical clients exploring AI workflows
-- Non-coders participating in hands-on labs
+- Technical sales and clients exploring AI workflows
 
-Minimal coding experience is required.
+Minimal coding experience is required.  
 
 ---
 
@@ -94,4 +92,4 @@ If you demonstrate to customers, keep this in mind
 
 ####  License
 This repository contains code and notebooks only.  
-Dataset licensing and usage rights are governed by the respective data platforms (Roboflow / Hugging Face) and projects from which data is sourced.
+Dataset licensing and usage rights are governed by the respective data platforms (Roboflow / Hugging Face, etc) and the dataset creators from which data is sourced.
